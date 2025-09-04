@@ -13,13 +13,13 @@
 
 ---
 
-## 🚀 À propos de moi
+##  À propos de moi
 
 Passionné par l’archéologie et la modélisation 3D, j’allie l’informatique à la recherche historique pour moderniser la discipline. Maîtrise de la 3D pour l’orthophotographie, analyse spatiale, et visualisation interactive.
 
 ---
 
-## 🛠️ Compétences techniques
+## Compétences techniques
 
 - **Développement web :** Next.js, JavaScript, Python
 - **SIG & 3D :** QGIS, Blender
@@ -27,21 +27,21 @@ Passionné par l’archéologie et la modélisation 3D, j’allie l’informatiq
 
 ---
 
-## 🌟 Projets phares
+##  Projets phares
 
 - [mon_site](https://github.com/madekoala/mon_site)
 - [creacress/web-cresson-tech](https://github.com/creacress/web-cresson-tech)
 
 ---
 
-## 💬 Passions
+##  Passions
 
 - Archéologie
 - Modélisation 3D
 
 ---
 
-## 📫 Me contacter
+##  Me contacter
 
 - **LinkedIn :** [Jérémy Cresson](https://linkedin.com/in/jeremy-cresson)
 
